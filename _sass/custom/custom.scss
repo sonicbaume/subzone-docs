@@ -1,1 +1,24 @@
 // custom SCSS (or CSS) goes here
+.screenshot {
+    width: 50%;
+    box-shadow: 5px 5px 5px #ccc;
+    border: 1px solid #ddd;
+    margin-top: 1rem;
+}
+
+@media (min-width: 1120px) {
+    .screenshot {
+        float: right;
+        margin-left: 1rem;
+        margin-top: -2rem;
+        width: 40%;
+    }
+}
+// @media (min-width: 500px) {
+//     .screenshot {
+//         width: 50%;
+//     }
+// }
+// @media (min-width: 740px) {
+
+// }
