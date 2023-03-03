@@ -1,10 +1,10 @@
 ---
-title: Legal notice
+title: Legal notices
 layout: default
 nav_exclude: true
 ---
 
-# Legal notice
+# Legal notices
 
 ---
 
