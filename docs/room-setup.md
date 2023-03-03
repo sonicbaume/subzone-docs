@@ -46,7 +46,7 @@ much effect on low-frequency absorption.
 > 
 > If you're unsure about your room's contruction materials, knock on your wall/ceiling/floor.
 > Uninsulated stud walls/joists will sound hollow; insulated stud walls/joists will make a dull thud;
-> and brick/concrete will make almost no sound.
+> and brick/concrete will make very little sound.
 
 If you can't find a suitable material to choose from, or you're really not sure what the room is constructed
 of, you can select the "Other / not sure" option. This will use an average of typical rooms.
