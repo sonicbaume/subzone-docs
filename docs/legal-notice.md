@@ -1,6 +1,7 @@
 ---
 title: Legal notice
 layout: default
+nav_exclude: true
 ---
 
 # Legal notice
@@ -22,6 +23,8 @@ The following third party software was used to build SubZone under the MIT Licen
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) - Copyright (c) 2015-2016 Horcrux
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Copyright (c) 2015 Joel Arvidsson
 - [react-navigation](https://github.com/react-navigation/react-navigation) - Copyright (c) 2017 React Navigation Contributors
+- [react-native-webview](https://github.com/react-native-webview/react-native-webview) - Copyright (c) 2015-present, Facebook, Inc.
+- [rn-tourguide](https://github.com/xcarpentier/rn-tourguide) - Copyright (c) 2020 Xavier Carpentier SAS
 
 ## MIT License
 
