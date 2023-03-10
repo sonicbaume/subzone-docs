@@ -8,11 +8,12 @@ nav_order: 2
 
 ---
 
+<img src="../../assets/images/add-position.png" alt="Add room screen" class="screenshot" />
+
 The modes of a room vary depending on where you are within the room. To account for this, we need
 to know where you will be listening from.
 
 ## Add a listening position
-<img src="../../assets/images/add-position.png" alt="Add room screen" class="screenshot" />
 
 The "Add listening position"screen will appear after you enter your room details, or when you press
 "Add listening position" from the results screen.

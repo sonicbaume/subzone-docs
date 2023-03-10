@@ -8,6 +8,8 @@ nav_order: 4
 
 ---
 
+<img src="../../assets/images/subwoofer-zones.png" alt="Subwoofer zones screen" class="screenshot" />
+
 Once the simulation is complete, the results are displayed as a map of your room, divided into colored zones.
 
 The color of each zone represents the quality of the sound you would experience at the selected listening position(s),

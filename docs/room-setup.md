@@ -8,13 +8,14 @@ nav_order: 1
 
 ---
 
+<img src="../../assets/images/add-room.png" alt="Add room screen" class="screenshot" />
+
 SubZone calculates the best position for your subwoofer by simulating the acoustics of your room.
 To do this accurately, you will need to provide the following information about your room:
 - Dimensions (width, length and height)
 - Construction materals
 
 ## Add a room
-<img src="../../assets/images/add-room.png" alt="Add room screen" class="screenshot" />
 
 When you first use SubZone, you will be automatically presented with the *Add room* screen (see right).
 Subsequenty, you can add more rooms by pressing the '+' button in the bottom-right of the *Rooms* screen.
